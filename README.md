@@ -3,16 +3,17 @@
 Welcome to Hangman, a simple yet engaging word-guessing game with a twist! In this version of Hangman, users can enjoy guessing words related to engineering while also having the option to add their own custom words.
 
 ## Screenshots
-![Game Menu](https://github.com/Subu114/HANGMAN/tree/main/screenshots/Menu.png)
-![Game Help](https://github.com/Subu114/HANGMAN/tree/main/screenshots/Help.png)
-![Game Options](https://github.com/Subu114/HANGMAN/tree/main/screenshots/Options.png)
-![Game Custom Words setting](https://github.com/Subu114/HANGMAN/tree/main/screenshots/CustomWordsSetting.png)
-![Game Start](https://github.com/Subu114/HANGMAN/tree/main/screenshots/StartOfGame.png)
-![Game Difficulty select](https://github.com/Subu114/HANGMAN/tree/main/screenshots/Difficulty.png)
-![Game Playing](https://github.com/Subu114/HANGMAN/tree/main/screenshots/InGame.png)
-![Game Playing](https://github.com/Subu114/HANGMAN/tree/main/screenshots/game.png)
-![Game Result](https://github.com/Subu114/HANGMAN/tree/main/screenshots/FinalResult.png)
-![Game Highscore](https://github.com/Subu114/HANGMAN/tree/main/screenshots/Highscore.png)
+![Game Menu](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/Menu.png)
+![Game Help](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/Help.png)
+![Game Options](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/Options.png)
+![Game Custom Words setting](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/CustomWordsSetting.png)
+![Game Start](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/StartOfGame.png)
+![Game Difficulty select](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/Difficulty.png)
+![Game Playing](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/InGame.png)
+![Game Playing](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/game.png)
+![Game Result](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/FinalResult.png)
+![Game Highscore](https://raw.githubusercontent.com/Subu114/HANGMAN/main/screenshots/Highscore.png)
+
 
 ## Getting Started
 - **Opening the Game:** When launching the game, ensure your command terminal is in fullscreen mode for the best experience.
